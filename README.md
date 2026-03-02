@@ -32,4 +32,4 @@ It contains structured customer-level banking data used to perform churn analysi
 ## Screenshots of Dashboard
 ## 📸 Dashboard Preview
 
-[Dashboard Screenshot](Dashboardscreenshot1.png) (Dashboardscreenshot2.png) (Dashboardscreenshot3.png)
+[Dashboard Screenshot](Dashboardscreenshot1.png) [2](Dashboardscreenshot2.png) [3](Dashboardscreenshot3.png)
