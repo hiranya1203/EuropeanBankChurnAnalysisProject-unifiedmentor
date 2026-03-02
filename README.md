@@ -33,3 +33,8 @@ It contains structured customer-level banking data used to perform churn analysi
 ## 📸 Dashboard Preview
 
 [Dashboard Screenshot](Dashboardscreenshot1.png) [2](Dashboardscreenshot2.png) [3](Dashboardscreenshot3.png)
+
+## About Me
+** P. Hiranya ** 
+Data Analyst Fellowship at Unified Mentor
+Aspiring Data/ Business Analyst | MBA (Finance & Business Analytics)
